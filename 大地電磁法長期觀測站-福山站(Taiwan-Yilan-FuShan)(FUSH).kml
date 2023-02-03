@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>大地電磁法長期觀測站-福山站(Taiwan-Yilan-FuShan)(FUSH).kml</name>
+	<Folder>
+		<name>福山MT站(FUSH)相關位置</name>
+		<open>1</open>		
+		<Placemark>
+			<name>福山植物園管制站</name>
+			<Point>
+				<coordinates>121.6127782,24.7521369,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>福山研究中心</name>
+			<Point>
+				<coordinates>121.59467890,24.75660820,0</coordinates>
+			</Point>
+		</Placemark>	
+		<Placemark>
+			<name>福山植物園解說站</name>
+			<Point>
+				<coordinates>121.5848639,24.7596431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MT設備總電源開關箱110V</name>
+			<Point>
+				<coordinates>121.5848801,24.7593884,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MT設備電源中繼開關箱110V(含4G路由器)</name>
+			<Point>
+				<coordinates>121.5809640,24.7584997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MT設備電源中繼電池櫃110V(現在只有中繼功能沒電池)</name>
+			<Point>
+				<coordinates>121.583255,24.755351,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MT設備FRP箱(延長線末端，網路末端，MT主機)</name>
+			<Point>
+				<coordinates>121.582659,24.754634,0</coordinates>
+			</Point>
+		</Placemark>		
+	</Folder>	
+</Document>
+</kml>
