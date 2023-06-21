@@ -1,0 +1,142 @@
+Jun 19 04:34:36 mtu8-15026 backend: Initiating messenger
+Jun 19 04:34:36 mtu8-15026 backend: 
+    ``                                                                     `   
+   `````                                                                 ````  
+   ``````                            ````                              ``````  
+   ````````                  ````````  `````                        `````````  
+     ```````                  `````````````````                   ```````````  
+        ``````                         ````````                 `````````      
+  ````     ````                           ````                ```````     ``   
+  ````````   ```                           ```             ``````    ```````   
+  ````````````   ```                       ```             ``   ```````````    
+         ``````  ```````                 ````        ````  ```````````````     
+    `````        ````````````         `````     ````````  `````                
+    ```````````` ```````````````  ```````` ````````````  ```````````````       
+     ````          `````````   `````````  ````````````   ``````````````        
+          ````````  ``````  ``````````  ````````````   `````                   
+        `````````     ``  ``````````  ````````````    `````````````            
+         `````    ````  ```````````  `````````    `````    ``````              
+                `````` ```````````  ````      ``  ```````                      
+              ```````  ``````````      ```  `````   ```````                    
+                      ```````````  ```````  ``````    ``                       
+                      ```````````  ```````  ```````                            
+                       ``````````       ``                                     
+                       ```````````                                             
+                        ``````````                                             
+                         ``````````                                            
+                           `````````                                           
+                            ````````                                           
+                                ```                                            
+                                  `                                            
+                  P H O E N I X        G E O P H Y S I C S                     
+                                2 0 1 3                                        
+                                                                               
+                                                       v1.54.2                                 
+                                  15026                                        
+                                                                               
+Jun 19 04:34:36 mtu8-15026 backend: Panel Map loaded, discovery mode: 1
+Jun 19 04:34:36 mtu8-15026 backend: Timing Module Hardware: BTM01-I 
+Jun 19 04:34:37 mtu8-15026 backend: Timing Module Firmware: 0001002FX
+Jun 19 04:34:37 mtu8-15026 mqtt: No control config in config.json, disabling net control
+Jun 19 04:34:37 mtu8-15026 backend: Timing Module CPLD: 2912
+Jun 19 04:34:38 mtu8-15026 backend: Timing Module Serial: 031FDA
+Jun 19 04:34:39 mtu8-15026 backend: {2}<3> CLEARED: Missing timing module
+Jun 19 04:34:39 mtu8-15026 backend: Mapped device @ [2-2.2], enum <14>, to channel index <3>
+Jun 19 04:34:39 mtu8-15026 backend: {1}<3> CLEARED: Missing channels
+Jun 19 04:34:39 mtu8-15026 backend: Mapped device @ [2-2.4], enum <15>, to channel index <4>
+Jun 19 04:34:39 mtu8-15026 backend: Mapped device @ [2-2.6.2], enum <16>, to channel index <0>
+Jun 19 04:34:39 mtu8-15026 backend: Mapped device @ [2-2.6.4], enum <17>, to channel index <1>
+Jun 19 04:34:39 mtu8-15026 backend: Mapped device @ [2-2.6.5], enum <18>, to channel index <2>
+Jun 19 04:34:39 mtu8-15026 backend: {5}<3> CLEARED: Hardware not initialized yet
+Jun 19 04:34:39 mtu8-15026 backend: Mapped channel DATA @ enum <18>, to channel index <2>
+Jun 19 04:34:39 mtu8-15026 backend: Mapped channel DATA @ enum <17>, to channel index <1>
+Jun 19 04:34:39 mtu8-15026 backend: Mapped channel DATA @ enum <16>, to channel index <0>
+Jun 19 04:34:39 mtu8-15026 backend: Mapped channel DATA @ enum <15>, to channel index <4>
+Jun 19 04:34:39 mtu8-15026 backend: Mapped channel DATA @ enum <14>, to channel index <3>
+Jun 19 04:34:39 mtu8-15026 backend: Discovered Timing module at 13
+Jun 19 04:34:39 mtu8-15026 backend: Discovered Channel module at 14
+Jun 19 04:34:39 mtu8-15026 backend: Discovered Channel module at 15
+Jun 19 04:34:39 mtu8-15026 backend: Discovered Channel module at 16
+Jun 19 04:34:39 mtu8-15026 backend: Discovered Channel module at 17
+Jun 19 04:34:39 mtu8-15026 backend: Discovered Channel module at 18
+Jun 19 04:34:39 mtu8-15026 backend: Discovered motherboard at 19
+Jun 19 04:34:39 mtu8-15026 backend: Backplane Hardware: BMB01-I 
+Jun 19 04:34:39 mtu8-15026 backend: Backplane Firmware: 00010036X
+Jun 19 04:34:39 mtu8-15026 backend: Backplane Serial: 031CE6
+Jun 19 04:34:39 mtu8-15026 backend: Timing Module Hardware: BTM01-I 
+Jun 19 04:34:39 mtu8-15026 backend: Backplane Bootloader version: 00000015
+Jun 19 04:34:40 mtu8-15026 backend: {37}<0> SD card ready
+Jun 19 04:34:40 mtu8-15026 backend: Configuration loaded with 0 scheduled tasks
+Jun 19 04:34:40 mtu8-15026 backend: Ch H2 [0]: Setting config for sensor type: 
+Jun 19 04:34:40 mtu8-15026 backend: Ch0: Setting dac: 8000
+Jun 19 04:34:40 mtu8-15026 backend: Channel Module #0 Serial #: 03250B
+Jun 19 04:34:40 mtu8-15026 backend: Channel Module #0 Firmware: 0001001FX
+Jun 19 04:34:40 mtu8-15026 backend: Chanel Module #0 Hardware: BCM05-B 
+Jun 19 04:34:40 mtu8-15026 backend: Sensor @ channel #0 switched to BMT mode
+Jun 19 04:34:40 mtu8-15026 backend: Ch0: Setting dac: 8000
+Jun 19 04:34:40 mtu8-15026 backend: Channel Module Sensor Message (Ch0):SMS I 17 00 MTC150     - SE54109A
+Jun 19 04:34:40 mtu8-15026 backend: Channel Module Sensor Message (Ch0):SMS F 03 00 B
+Jun 19 04:34:40 mtu8-15026 backend: Channel Module #1 Serial #: 0324C9
+Jun 19 04:34:40 mtu8-15026 backend: Channel Module #1 Firmware: 0001001FX
+Jun 19 04:34:40 mtu8-15026 backend: Chanel Module #1 Hardware: BCM05-B 
+Jun 19 04:34:40 mtu8-15026 backend: Ch1: Setting dac: 8000
+Jun 19 04:34:40 mtu8-15026 backend: Ch H1 [2]: Setting config for sensor type: 
+Jun 19 04:34:40 mtu8-15026 backend: Ch2: Setting dac: 8000
+Jun 19 04:34:40 mtu8-15026 backend: Channel Module #2 Serial #: 03206C
+Jun 19 04:34:40 mtu8-15026 backend: Channel Module #2 Firmware: 0001001FX
+Jun 19 04:34:40 mtu8-15026 backend: Chanel Module #2 Hardware: BCM05-B 
+Jun 19 04:34:40 mtu8-15026 backend: Sensor @ channel #2 switched to BMT mode
+Jun 19 04:34:40 mtu8-15026 backend: Ch2: Setting dac: 8000
+Jun 19 04:34:40 mtu8-15026 backend: Channel Module Sensor Message (Ch2):SMS I 17 00 MTC150     - SE54107A
+Jun 19 04:34:40 mtu8-15026 backend: Channel Module Sensor Message (Ch2):SMS F 03 00 B
+Jun 19 04:34:40 mtu8-15026 backend: Channel Module #3 Serial #: 0324B6
+Jun 19 04:34:40 mtu8-15026 backend: Channel Module #3 Firmware: 0001001FX
+Jun 19 04:34:40 mtu8-15026 backend: Chanel Module #3 Hardware: BCM05-B 
+Jun 19 04:34:40 mtu8-15026 backend: Ch H3 [3]: Setting config for sensor type: 
+Jun 19 04:34:40 mtu8-15026 backend: Ch3: Setting dac: 8000
+Jun 19 04:34:40 mtu8-15026 backend: Sensor @ channel #3 switched to BMT mode
+Jun 19 04:34:40 mtu8-15026 backend: Ch3: Setting dac: 8000
+Jun 19 04:34:40 mtu8-15026 backend: Channel Module Sensor Message (Ch3):SMS I 17 00 MTC150L    - ********
+Jun 19 04:34:40 mtu8-15026 backend: Channel Module Sensor Message (Ch3):SMS F 03 00 B
+Jun 19 04:34:41 mtu8-15026 backend: Channel Module #4 Serial #: 03252C
+Jun 19 04:34:41 mtu8-15026 backend: Channel Module #4 Firmware: 0001001FX
+Jun 19 04:34:41 mtu8-15026 backend: Ch4: Setting dac: 8000
+Jun 19 04:34:41 mtu8-15026 backend: 5 channel modules initialized from configuration file
+Jun 19 04:34:41 mtu8-15026 backend: Initializing screen 
+Jun 19 04:34:41 mtu8-15026 backend: Socket: Listening on port 61206
+Jun 19 04:34:41 mtu8-15026 backend: {"name":"genome", "backend_version":"v1.54.2", "receiver_model":"RMT03-J", "receiver_commercial_name":"MTU-5C", "backplane_hw_ver":"BMB01-I ", "backplane_fw_ver":"00010036X", "backplane_boot_ver":"00000015", "timingmodule_hw_ver":"BTM01-I ", "timingmodule_fw_ver":"0001002FX", "timingmodule_cpld":"2912", "chans_hw_ver":["BCM05-B ","BCM05-B ","BCM05-B ","BCM05-B ",""], "chan_ser_num" : ["03250B","0324C9","03206C","0324B6","03252C"], "chan_fw_ver" : ["0001001FX","0001001FX","0001001FX","0001001FX","0001001FX"]}
+Jun 19 04:34:41 mtu8-15026 backend: Chanel Module #4 Hardware: BCM05-B 
+Jun 19 04:36:13 mtu8-15026 backend: {18}<0> Time synchronized and enough satellites present
+Jun 19 04:36:13 mtu8-15026 backend: Timing Module Ready for ACQ (37 7 31)
+Jun 19 04:36:28 mtu8-15026 backend: Ch0: Setting dac: 8000
+Jun 19 04:36:28 mtu8-15026 backend: Ch1: Setting dac: 8000
+Jun 19 04:36:28 mtu8-15026 backend: Ch2: Setting dac: 8000
+Jun 19 04:36:28 mtu8-15026 backend: Ch3: Setting dac: 8000
+Jun 19 04:36:28 mtu8-15026 backend: Ch4: Setting dac: 8000
+Jun 19 04:36:28 mtu8-15026 backend: {68}<0> Acquiring Receiver internal calibration
+Jun 19 04:36:29 mtu8-15026 backend: Ch0: Starting RECEIVER CALIBRATION (INT)
+Jun 19 04:36:29 mtu8-15026 backend:  >> Connected to channel module 0 (H2)
+Jun 19 04:36:29 mtu8-15026 backend: Ch1: Starting RECEIVER CALIBRATION (INT)
+Jun 19 04:36:29 mtu8-15026 backend:  >> Connected to channel module 1 (E1)
+Jun 19 04:36:29 mtu8-15026 backend: Ch2: Starting RECEIVER CALIBRATION (INT)
+Jun 19 04:36:29 mtu8-15026 backend:  >> Connected to channel module 2 (H1)
+Jun 19 04:36:29 mtu8-15026 backend: Ch3: Starting RECEIVER CALIBRATION (INT)
+Jun 19 04:36:29 mtu8-15026 backend:  >> Connected to channel module 3 (H3)
+Jun 19 04:36:29 mtu8-15026 backend: Ch4: Starting RECEIVER CALIBRATION (INT)
+Jun 19 04:36:29 mtu8-15026 backend:  >> Connected to channel module 4 (E2)
+Jun 19 04:36:32 mtu8-15026 backend: {17}<1> Time not synchronized
+Jun 19 04:36:32 mtu8-15026 backend: {18}<0> CLEARED: Time synchronized and enough satellites present
+Jun 19 04:36:57 mtu8-15026 backend: {17}<1> CLEARED: Time not synchronized
+Jun 19 04:36:57 mtu8-15026 backend: {18}<0> Time synchronized and enough satellites present
+Jun 19 04:41:41 mtu8-15026 backend: Stop requested by timing module at end of calibration, stopping...
+Jun 19 04:41:42 mtu8-15026 backend:  -- Disconnected from channel module 0 (H2)
+Jun 19 04:41:42 mtu8-15026 backend:  -- Disconnected from channel module 1 (E1)
+Jun 19 04:41:42 mtu8-15026 backend:  -- Disconnected from channel module 2 (H1)
+Jun 19 04:41:42 mtu8-15026 backend:  -- Disconnected from channel module 3 (H3)
+Jun 19 04:41:42 mtu8-15026 backend:  -- Disconnected from channel module 4 (E2)
+Jun 19 04:41:42 mtu8-15026 backend: Ch0: Setting dac: 8000
+Jun 19 04:41:42 mtu8-15026 backend: Ch1: Setting dac: 8000
+Jun 19 04:41:42 mtu8-15026 backend: Ch2: Setting dac: 8000
+Jun 19 04:41:42 mtu8-15026 backend: Ch3: Setting dac: 8000
+Jun 19 04:41:42 mtu8-15026 backend: Ch4: Setting dac: 8000
+Jun 19 04:45:43 mtu8-15026 backend: {64}<0> Instrument idle

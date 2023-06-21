@@ -1,0 +1,252 @@
+{
+	"name":	"recording",
+	"version":	6,
+	"chconfig":	{
+		"name":	"chconfig",
+		"config_index":	0,
+		"version":	5,
+		"chans":	[{
+				"tag":	"H2",
+				"ty":	"E",
+				"on":	1,
+				"srd":	32,
+				"pg":	1,
+				"at":	0,
+				"lp":	1000,
+				"ga":	1,
+				"dc":	32768,
+				"ssp":	0,
+				"hw":	"BCM05-B ",
+				"ser":	"03250B",
+				"fw":	"0001001FX",
+				"cn":	"001B0000",
+				"min":	-3809040,
+				"max":	2627683,
+				"sampleRate":	24000,
+				"frameSat":	0,
+				"ppsDrift":	0,
+				"frameDrop":	0,
+				"fileSeq":	6,
+				"pot_p":	0,
+				"pot_n":	0,
+				"length1":	0,
+				"length2":	0
+			}
+, {
+				"tag":	"E1",
+				"ty":	"E",
+				"on":	1,
+				"srd":	32,
+				"pg":	8,
+				"at":	0,
+				"lp":	1000,
+				"ga":	1,
+				"dc":	32768,
+				"ssp":	0,
+				"hw":	"BCM05-B ",
+				"ser":	"0324C9",
+				"fw":	"0001001FX",
+				"cn":	"10390000",
+				"min":	-4020130,
+				"max":	2635879,
+				"sampleRate":	24000,
+				"frameSat":	2,
+				"ppsDrift":	0,
+				"frameDrop":	0,
+				"fileSeq":	6,
+				"pot_p":	0,
+				"pot_n":	0,
+				"length1":	50,
+				"length2":	50
+			}
+, {
+				"tag":	"H1",
+				"ty":	"E",
+				"on":	1,
+				"srd":	32,
+				"pg":	1,
+				"at":	0,
+				"lp":	1000,
+				"ga":	1,
+				"dc":	32768,
+				"ssp":	0,
+				"hw":	"BCM05-B ",
+				"ser":	"03206C",
+				"fw":	"0001001FX",
+				"cn":	"001B0000",
+				"min":	-3769669,
+				"max":	2617708,
+				"sampleRate":	24000,
+				"frameSat":	0,
+				"ppsDrift":	0,
+				"frameDrop":	0,
+				"fileSeq":	6,
+				"pot_p":	0,
+				"pot_n":	0,
+				"length1":	0,
+				"length2":	0
+			}
+, {
+				"tag":	"H3",
+				"ty":	"E",
+				"on":	1,
+				"srd":	32,
+				"pg":	1,
+				"at":	0,
+				"lp":	10000,
+				"ga":	1,
+				"dc":	32768,
+				"ssp":	0,
+				"hw":	"BCM05-B ",
+				"ser":	"0324B6",
+				"fw":	"0001001FX",
+				"cn":	"001B0000",
+				"min":	-4490922,
+				"max":	2634730,
+				"sampleRate":	24000,
+				"frameSat":	0,
+				"ppsDrift":	0,
+				"frameDrop":	0,
+				"fileSeq":	6,
+				"pot_p":	0,
+				"pot_n":	0,
+				"length1":	0,
+				"length2":	0
+			}
+, {
+				"tag":	"E2",
+				"ty":	"E",
+				"on":	1,
+				"srd":	32,
+				"pg":	8,
+				"at":	0,
+				"lp":	10000,
+				"ga":	1,
+				"dc":	32768,
+				"ssp":	0,
+				"hw":	"BCM05-B ",
+				"ser":	"03252C",
+				"fw":	"0001001FX",
+				"cn":	"10390000",
+				"min":	-3723974,
+				"max":	2628088,
+				"sampleRate":	24000,
+				"frameSat":	7,
+				"ppsDrift":	0,
+				"frameDrop":	0,
+				"fileSeq":	5,
+				"pot_p":	0,
+				"pot_n":	0,
+				"length1":	50,
+				"length2":	50
+			}
+]
+	}
+,
+	"decimation":	{
+		"divider_id":	-1,
+		"interleave_lev0":	0,
+		"interleave_lev1":	0,
+		"version_1":	{
+			"period":	0,
+			"interleave_96k":	0,
+			"interleave_24k":	0,
+			"interleave_2400":	0,
+			"interleave_150":	0,
+			"interleave_30":	0
+		}
+
+	}
+,
+	"layout":	{
+		"Company_Name":	"",
+		"Layout_Type":	4,
+		"Notes":	"",
+		"Operator":	"",
+		"Station_Name":	"",
+		"Survey_Name":	"",
+		"version":	6
+	}
+,
+	"timing":	{
+		"name":	"timing",
+		"version":	3,
+		"gps_lat":	24.754646,
+		"gps_lon":	121.582679,
+		"gps_alt":	642.597626,
+		"tm_hw_ver":	"BTM01-I ",
+		"tm_serial":	"031FDA",
+		"tm_fw_ver":	"0001002FX",
+		"tm_cpld":	"2912",
+		"tm_alive":	1,
+		"tm_ready":	1,
+		"tm_debug":	0,
+		"tm_timeweek":	1,
+		"tm_timeset":	1,
+		"tm_utcset":	1,
+		"tm_leapSecAtRecStart":	18,
+		"tm_leapSecNow":	18,
+		"tm_satcount":	6,
+		"tm_satmin":	6,
+		"tm_stabidx":	331,
+		"tm_drift":	"-3",
+		"tm_drift_units":	"20thMhz"
+	}
+,
+	"motherboard":	{
+		"version":	1,
+		"mb_hw_ver":	"BMB01-I ",
+		"mb_serial":	"031CE6",
+		"mb_fw_ver":	"00010036X"
+	}
+,
+	"channel_map":	{
+		"version":	1,
+		"receiver_model":	"RMT03-J",
+		"mapping":	[{
+				"idx":	0,
+				"tag":	"H2"
+			}
+, {
+				"idx":	1,
+				"tag":	"E1"
+			}
+, {
+				"idx":	2,
+				"tag":	"H1"
+			}
+, {
+				"idx":	3,
+				"tag":	"H3"
+			}
+, {
+				"idx":	4,
+				"tag":	"E2"
+			}
+]
+	}
+,
+	"instid":	"15026",
+	"uptime":	465,
+	"bat_ext":	13.341000,
+	"temp_cel":	46,
+	"sampleClock":	768000,
+	"ppsDrift":	false,
+	"missingFrame":	0,
+	"status":	"rx_cal_int",
+	"calibration":	{
+		"type":	"receiver",
+		"passes_requested":	1,
+		"delete_timeseries":	true
+	}
+,
+	"acqtime":	311,
+	"start":	1687149391,
+	"stop":	1687149702,
+	"systime":	1687149702,
+	"dt":	62176362496,
+	"df":	62055251968,
+	"sw_version":	"v1.54.2",
+	"receiver_model":	"RMT03-J",
+	"receiver_commercial_name":	"MTU-5C"
+}
